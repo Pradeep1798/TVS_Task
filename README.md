@@ -44,7 +44,8 @@ All paths go through one function, `processMessage`, so validation and de-duplic
 index.js                      background handler
 App.tsx                       Provider + PersistGate
 src/
-  constants/  enums/  models/  utils/
+  models/ 
+  utils/
   store/      casesSlice, store, typed hooks
   services/   fcm.service
   hooks/      useSnackbar, useCaseNotifications
