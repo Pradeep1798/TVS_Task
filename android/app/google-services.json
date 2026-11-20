@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41586184152",
+    "project_id": "tvs-task",
+    "storage_bucket": "tvs-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41586184152:android:67098e11a39611480d2cad",
+        "android_client_info": {
+          "package_name": "com.tvs_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zE0QRYF9uQBYTobCbEVdZnRRy24RS5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
